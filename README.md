@@ -1,47 +1,47 @@
-# Marvel Rivals - Unlock All Script 🎮✨
+# Roblox Rivals - Unlock All Cosmetics Script 🎮✨
 
-A powerful **Luau-based execution script** for Marvel Rivals that unlocks all in-game cosmetics locally, including character skins, weapon wraps, and MV MVP charms.
+A highly optimized **Luau execution script** designed specifically for **Roblox Rivals**. This script locally grants instant access to premium in-game customization items, including character skins, weapon wraps, and kill charms.
 
-> ⚠️ **Disclaimer:** This script modifies cosmetics on a client-side/local level. Use at your own risk. The developers of this repository are not responsible for any account actions taken by game administrators.
+> ⚠️ **Disclaimer:** This script modifies cosmetic assets on a client-side/local level. Use responsibly. The creators and contributors of this repository are not responsible for any enforcement actions or bans applied to your Roblox account.
 
 ---
 
 ## 🚀 Features
 
-*   **Skins Unlocker:** Instant local access to all legendary, epic, and event-exclusive character skins.
-*   **Weapon Wraps:** Equips any weapon wrap variant across all eligible heroes.
-*   **Charms & Accessories:** Unlocks premium charms and cosmetic attachments.
-*   **Optimized Luau Engine:** Highly optimized codebase for low latency and zero frame-drops during execution.
+*   **Skins Unlocker:** Instantly view and equip premium character skins locally.
+*   **Weapon Wraps:** Unlocks all weapon finishes, patterns, and tier variants.
+*   **Charms & Customizations:** Complete local access to premium kill charms and cosmetic decorations.
+*   **Performance Safe:** Fully written in Luau and lightweight to prevent script lag or engine stuttering during matches.
 
 ---
 
 ## 🛠️ How to Use
 
-1.  Launch **Marvel Rivals** and load into the main menu or training grounds.
-2.  Open your preferred **Luau-compatible executor** or exploit injector.
-3.  Copy the loadstring or raw script code provided below.
-4.  Paste the code into your executor and press **Execute**.
+1.  Launch **Roblox** and open **Rivals**.
+2.  Attach your chosen **Luau-compatible exploit executor** (e.g., Wave, Synapse, Electron, or similar working executors).
+3.  Copy the official loadstring provided below.
+4.  Paste it into the executor's workspace and click **Execute**.
 
-### 📜 Execution Script
+### 📜 Official Execution Loadstring
 ```lua
--- Copy and paste this into your executor
-loadstring(game:HttpGet("https://githubusercontent.com"))()
+-- Copy and paste this exact script into your executor
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Hirafay/RIvals_unlocker/refs/heads/main/script.lua"))()
 ```
 
 ---
 
 ## 📜 Licensing & Terms of Use
 
-This repository distributes an obfuscated script build under a strict **Source-Available License**. By using, viewing, or interacting with this repository, you agree to the following terms:
+This repository distributes a built version of the script obfuscated via WeAreDevs under a strict **Source-Available / Proprietary License**. By using or interacting with this repository, you legally agree to these conditions:
 
-*   **Anti-Obfuscation Theft:** You are strictly prohibited from re-obfuscating, modifying, or repackaging this script to distribute it as closed-source or proprietary software.
-*   **Forced Open-Source Derivatives:** Any modifications, forks, or derivative works of this project **must** be made entirely open-source. You must provide the raw, human-readable, un-obfuscated Luau source code of your changes to the public. 
-*   **No Commercial Use:** You may not sell, lease, or monetize this script, its loader, or any derived versions.
+*   **No Code Scraping / Theft:** You may not attempt to de-obfuscate, unpack, re-obfuscate, or bundle this loader to claim it as your own proprietary work.
+*   **Forced Open-Source Modification:** If you create a fork or modify the execution path of this unlocker, your derivative project **must** be released fully open-source. Hiding script updates behind further obfuscation layer chains is strictly forbidden unless authorized.
+*   **Non-Commercial Rule:** Selling access to this specific payload tool, placing it behind a paid key gate, or hosting it inside commercialized paid-access groups is entirely prohibited.
 
 ---
 
-## 🤝 Support & Contributions
+## 🤝 Support & Bug Reporting
 
-If you find a bug or a specific skin isn't loading correctly after a game update:
-1. Open an **Issue** on this GitHub repository.
-2. Describe the hero and cosmetic item that failed to load.
+Notice a skin or wrap missing after a game update?
+1. Head over to the **Issues** tab of this repository.
+2. File a report listing the exact cosmetic asset that failed to unlock.
